@@ -9,7 +9,13 @@ div{
 }
 
 hr {
-
+  border-top-style: dotted;
+  border-top-color: grey;
+  border-top-width: thick;
+  width: 5%;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
 
 }
 
